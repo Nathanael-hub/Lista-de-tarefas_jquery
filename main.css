@@ -78,3 +78,8 @@ li.done{
     text-decoration: line-through;
     color: #888;
 }
+
+
+button:hover{
+    background-color: rgb(82, 8, 8);
+}
